@@ -83,7 +83,7 @@ namespace Versenyzők
                 }
 
             }
-            Console.WriteLine("6. feladat:  "+ maxnemzetiseg);
+            Console.WriteLine("6. feladat: "+ maxnemzetiseg);
         } 
 
         private void Feladat7() {
