@@ -83,8 +83,9 @@ namespace Versenyzők
                 }
 
             }
-            Console.WriteLine("6. feladat: "+ maxnemzetiseg);
-        }
+            Console.WriteLine("6. feladat:  "+ maxnemzetiseg);
+        } 
+
         private void Feladat7() {
             //Dictionary<int, int> countOfItems = new Dictionary<int, int>();
             //foreach (pilota item in pilotaLista)
